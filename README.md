@@ -1,3 +1,3 @@
-# nomad_coder
+# Python
 
-## 노마드 코더 공부용 레퍼지토리
+## OOP 연습 및 Web scrapping PJ
